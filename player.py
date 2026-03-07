@@ -132,7 +132,7 @@ class TransformerPlayer(Player):
 
 
 if __name__ == "__main__":
-    player    = TransformerPlayer("Mohammad Ekhtiary")
+    player    = TransformerPlayer("Mohammad Ekhtiyariynaghash")
     start_fen = "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
     move      = player.get_move(start_fen)
     board     = chess.Board(start_fen)
