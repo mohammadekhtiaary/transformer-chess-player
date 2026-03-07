@@ -1,0 +1,4 @@
+torch
+transformers
+chess
+huggingface_hub
